@@ -1,3 +1,4 @@
+# coding: UTF-8
 # 関数をより便利に
 
 import numpy as np
